@@ -1,0 +1,101 @@
+﻿Month,Year,Start,Finish,Event,EventType,EventID,Community,CommunityID
+Mar,2017,2/3/2017,2/3/2017,Сервис. Переносим работу в фон на Андроид,Meetup,E-001,Exposit,C-004
+Apr,2017,28/4/2017,30/4/2017,NASA Space Apps Challenge,Hackathon,E-002,Startups,C-013
+May,2017,12/5/2017,12/5/2017,Что нового в Андроид О,Meetup,E-003,Exposit,C-004
+May,2017,18/5/2017,18/5/2017,Личная эффективность: как стать автором своего успеха. Часть 1,Training,E-004,HTP Lab,C-006
+May,2017,18/5/2017,18/5/2017,Личная эффективность: как стать автором своего успеха. Часть 1,Training,E-005,HTP Lab,C-006
+May,2017,23/5/2017,23/5/2017,Семинар-тренинг для руководителей и HR-менеджеров,Seminar-training,E-006,HTP Lab,C-006
+Jun,2017,7/6/2017,7/6/2017,Анализ данных с R,Meetup,E-007,HTP Lab,C-006
+Jun,2017,10/6/2017,10/6/2017,Rolling Scopes # 39,Meetup,E-008,Rolling Scopes,C-012
+Jun,2017,12/6/2017,12/6/2017,вводное занятие по Front-end,Meetup,E-009,IT-Academy,C-007
+Jun,2017,14/6/2017,14/6/2017,презентация стартап-проектов Гродненских команд,Demo-day,E-010,Startups,C-013
+Jun,2017,20/6/2017,20/6/2017,BA: Проектная документация: как найти золотую середину,Meetup,E-011,BA Community,C-002
+Jul,2017,5/7/2017,5/7/2017,"Weekly Talks: IPFS, Merkle tree, blockchain",Meetup,E-012,Weekly Talks,C-014
+Jul,2017,14/7/2017,14/7/2017,Журналистика данных,Meetup,E-013,HTP Lab,C-006
+Jul,2017,19/7/2017,19/7/2017,Weekly Talks: разбор внутренней механики Styled-components,Meetup,E-014,Weekly Talks,C-014
+Jul,2017,21/7/2017,21/7/2017,QA Community: Логи в автоматизации,Meetup,E-015,QA Community,C-011
+Jul,2017,26/7/2017,26/7/2017,Презентация портфолио Гродненских компаний-резидентов ПВТ,Meetup,E-016,HTP Lab,C-006
+Jul,2017,28/7/2017,28/7/2017,.NET Community: Project Rider: Есть ли жизнь без Visual Studio,Meetup,E-017,.NET Community,C-001
+Aug,2017,1/8/2017,1/8/2017,BA Community: Управление рисками в Scrum,Meetup,E-018,BA Community,C-002
+Aug,2017,2/8/2017,2/8/2017,Weekly Talks: Язык программирования Haxe,Meetup,E-019,Weekly Talks,C-014
+Aug,2017,7/8/2017,7/8/2017,мастер-класс ASP.Net,Master-class,E-020,IT-Academy,C-007
+Aug,2017,11/8/2017,11/8/2017,BA Community: SharePoint Online + Office 365: Особенности работы BA на проекте,Meetup,E-021,BA Community,C-002
+Aug,2017,16/8/2017,16/8/2017,Weekly Talks: Flow,Meetup,E-022,Weekly Talks,C-014
+Aug,2017,18/8/2017,18/8/2017,.NET: Compiler platform Roslyn,Meetup,E-023,.NET Community,C-001
+Aug,2017,19/8/2017,19/8/2017,Brand Management и PR,Meetup,E-024,HTP Lab,C-006
+Aug,2017,26/8/2017,26/8/2017,PHP-митап c Onliner,Meetup,E-025,Exposit,C-004
+Sep,2017,2/9/2017,2/9/2017,BA Community: Analyst.by,Meetup,E-026,BA Community,C-002
+Sep,2017,8/9/2017,8/9/2017,.NET Community: Nemerle,Meetup,E-027,.NET Community,C-001
+Sep,2017,8/9/2017,8/9/2017,E-government,Seminar,E-028,Outreach,C-015
+Sep,2017,14/9/2017,14/9/2017,Scrum+Kanban. Planning & Time Management,Meetup,E-029,Exposit,C-004
+Sep,2017,24/9/2017,24/9/2017,GROCON 2017,Conference,E-030,GROCON,C-005
+Sep,2017,26/9/2017,26/9/2017,Создай свой сайт быстро и просто,Meetup,E-031,HTP Lab,C-006
+Sep,2017,30/9/2017,30/9/2017,IT-дуэль 2017 в Гродно,Contest,E-032,IT-дуэль,C-008
+Sep,2017,30/9/2017,30/9/2017,IT-дуэль 2017 в Гродно,Contest,E-032,Exposit,C-004
+Oct,2017,2/10/2017,2/10/2017,BA Community: Управление проектами в США: вопросы и ответы,Meetup,E-033,BA Community,C-002
+Oct,2017,6/10/2017,6/10/2017,вводное занятие по Front-end,Meetup,E-034,IT-Academy,C-007
+Oct,2017,7/10/2017,7/10/2017,"тренинг ""Трудоустройство в IT""",Training,E-035,IT-Academy,C-007
+Oct,2017,10/10/2017,20/10/2017,Стартап-курсы,Course,E-036,Startups,C-013
+Oct,2017,11/10/2017,11/10/2017,Weekly Talks: Elixir,Meetup,E-037,Weekly Talks,C-014
+Oct,2017,20/10/2017,20/10/2017,.NET Community: Хостинг JavaScript в Windows с помощью .NET,Meetup,E-038,.NET Community,C-001
+Oct,2017,21/10/2017,21/10/2017,Чат-боты,Meetup,E-039,Exposit,C-004
+Oct,2017,25/10/2017,25/10/2017,Weekly Talks: Язык программирования Tcl,Meetup,E-040,Weekly Talks,C-014
+Oct,2017,28/10/2017,28/10/2017,конференция COMAQA,Conference,E-041,QA Community,C-011
+Nov,2017,1/11/2017,1/11/2017,Программирование на PHP,Meetup,E-042,IT-Academy,C-007
+Nov,2017,3/11/2017,3/11/2017,вводное занятие по Front-end,Meetup,E-043,IT-Academy,C-007
+Nov,2017,15/11/2017,15/11/2017,От хакатона до акселератора,Meetup,E-044,Exposit,C-004
+Nov,2017,17/11/2017,17/11/2017,Основы Front-End разработки,Meetup,E-045,HTP Lab,C-006
+Nov,2017,24/11/2017,24/11/2017,Big Data meetup,Meetup,E-046,HTP Lab,C-006
+Dec,2017,1/12/2017,1/12/2017,.NET Community: Azure CosmosDB,Meetup,E-047,.NET Community,C-001
+Dec,2017,4/12/2017,4/12/2017,BA Community: Mind Map,Meetup,E-048,BA Community,C-002
+Dec,2017,18/12/2017,18/12/2017,Exposit+Wargaming,Meetup,E-049,Exposit,C-004
+Dec,2017,21/12/2017,21/12/2017,"Новинки и особенности HTML5 и CSS3, а также интересные фреймворки и утилиты для front end",Meetup,E-050,HTP Lab,C-006
+Dec,2017,22/12/2017,22/12/2017,Митап .NET Community TPL Dataflow,Meetup,E-051,.NET Community,C-001
+Jan,2018,5/1/2018,5/1/2018,Митап по блокчейну и криптовалютам,Meetup,E-052,Blockchain,C-003
+Jan,2018,9/1/2018,9/1/2018,Комплексный интернет-маркетинг,Seminar,E-053,Marketing,C-009
+Jan,2018,10/1/2018,10/1/2018,UI/UX Design,Seminar,E-054,HTP Lab,C-006
+Jan,2018,12/1/2018,12/1/2018,Митап .NET Community,Meetup,E-055,.NET Community,C-001
+Jan,2018,13/1/2018,13/1/2018,Тренинг по Kotlin + Workshop,Training,E-056,Exposit,C-004
+Jan,2018,15/1/2018,15/1/2018,Семинар по PHP,Seminar,E-057,IT-Academy,C-007
+Feb,2018,9/2/2018,9/2/2018,"Lucene, Elastic Stack and Azure Search",Meetup,E-058,.NET Community,C-001
+Feb,2018,21/2/2018,21/2/2018,Компетенции проектного менеджера для аутсорсинг-проектов,Meetup,E-059,Project Management,C-010
+Feb,2018,24/2/2018,24/2/2018,"Тренинг ""iOS workshop""",Training,E-060,Exposit,C-004
+Mar,2018,2/3/2018,2/3/2018,Профессиональный рост бизнес-аналитика,Meetup,E-061,BA Community,C-002
+Mar,2018,20/3/2018,20/3/2018,UX prototyping: new principles & tools,Meetup,E-062,BA Community,C-002
+Mar,2018,21/3/2018,21/3/2018,Митап Образовательного Центра ПВТ ”Основы бизнес-анализа“,Meetup,E-063,IT-Academy,C-007
+Mar,2018,28/3/2018,28/3/2018,Сертификация QA специалиста,Meetup,E-064,QA Community,C-011
+Apr,2018,11/4/2018,11/4/2018,Маркетинг. Погружение,Meetup,E-065,Marketing,C-009
+Apr,2018,19/4/2018,19/4/2018,Опыт успешного участия в International Data Analysis Olympiad,Meetup,E-066,HTP Lab,C-006
+Apr,2018,21/4/2018,21/4/2018,"Kонференции ""Open IT""",Conference,E-067,IT-Academy,C-007
+Apr,2018,21/4/2018,21/4/2018,"Веселые будни мануальщика, полюбившего автоматизацию",Meetup,E-068,QA Community,C-011
+Apr,2018,25/4/2018,25/4/2018,"Веселые будни мануальщика, полюбившего автоматизацию",Meetup,E-069,QA Community,C-011
+May,2018,12/5/2018,12/5/2018,AI by Exposit,Meetup,E-070,Exposit,C-004
+May,2018,12/5/2018,12/5/2018,Artificial Intelligence by Exposit,Meetup,E-073,Exposit,C-004
+May,2018,17/5/2018,17/5/2018,"Митап по блокчейну, Instictools",Meetup,E-071,Blockchain,C-003
+May,2018,22/5/2018,22/5/2018,Итоги Google I/O 2018,Meetup,E-072,HTP Lab,C-006
+May,2018,24/5/2018,24/5/2018,"BA Community: How to improve training of BA-newcomers and Junior BA""",Meetup,E-075,BA Community,C-002
+May,2018,25/5/2018,25/5/2018,JS-day Quiz,Quiz,E-074,HTP Lab,C-006
+May,2018,29/5/2018,29/5/2018,Системы управления потребителем и разработка наборов ключевых показателей деятельности,Meetup,E-075,Marketing,C-009
+May,2018,30/5/2018,30/5/2018,"Заседание Совета ГОСН: ""Успешное будущее вашего предприятия - цифровая трансформация экономики""",Session,E-076,Outreach,C-015
+Jun,2018,1/6/2018,1/6/2018,Финал конкурса предпринимательских идей 2018г. Гродно,Contest,E-077,Startups,C-013
+Jun,2018,4/6/2018,4/6/2018,Семинар по Java,Seminar,E-078,IT-Academy,C-007
+Jun,2018,7/6/2018,7/6/2018,Build Difficulty: Peace of cake,Meetup,E-079,.NET Community,C-001
+Jun,2018,22/6/2018,22/6/2018,По мотивам HEISENBUG 2018,Meetup,E-080,QA Community,C-011
+Jun,2018,26/6/2018,26/6/2018,Локальные интернет СМИ,Meetup,E-081,Marketing,C-009
+Jun,2018,27/6/2018,27/6/2018,Scrum card game for testers,Meetup,E-082,QA Community,C-011
+Jul,2018,5/7/2018,5/7/2018,Java пикник,Meetup,E-083,Java Community,C-016
+Jul,2018,12/7/2018,12/7/2018,С#8. Обсудим,Meetup,E-084,.NET Community,C-001
+Jul,2018,16/7/2018,16/7/2018,Основы Computer Science,Meetup,E-085,IT-Academy,C-007
+Jul,2018,17/7/2018,17/7/2018,Стартап-аналитика. Ключевые метрики,Meetup,E-086,Startups,C-013
+Jul,2018,20/7/2018,20/7/2018,Отборный JS из Амстерадама by IntexSoft,Meetup,E-087,JS Community,C-017
+Jul,2018,25/7/2018,25/7/2018,Usability,Meetup,E-088,Marketing,C-009
+Jul,2018,26/7/2018,26/7/2018,QA Quiz,Quiz,E-089,QA Community,C-011
+Jul,2018,27/7/2018,27/7/2018,К выступлению готов,Meetup,E-090,IT-Academy,C-007
+Aug,2018,9/8/2018,9/8/2018,How to build with Nuke,Meetup,E-091,.NET Community,C-001
+Aug,2018,16/8/2018,16/8/2018,JS пикник,Meetup,E-092,JS Community,C-017
+Sep,2018,3/9/2018,3/9/2018,Введение в Java,Meetup,E-093,IT-Academy,C-007
+Sep,2018,6/9/2018,6/9/2018,Немного о performance,Meetup,E-094,.NET Community,C-001
+Sep,2018,12/9/2018,12/9/2018,К выступлению готов,Meetup,E-095,IT-Academy,C-007
+Sep,2018,13/9/2018,13/9/2018,ИТ-Мозгобойня,Contest,E-096,HTP Lab,C-006
+Sep,2018,20/9/2018,20/9/2018,Введение в .NET,Meetup,E-097,IT-Academy,C-007
+Sep,2018,20/9/2018,20/9/2018,"Основные требованиях инвесторов к бизнес-проектам, претендующим на привлечение финансирования",Meetup,E-098,Startups,C-013
